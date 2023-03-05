@@ -1,0 +1,18 @@
+D:\Project_2022_2023\Image_TCP_Remoting\ImgServer\ImgServer\bin\Debug\ImgServer.exe
+D:\Project_2022_2023\Image_TCP_Remoting\ImgServer\ImgServer\bin\Debug\ImgServer.pdb
+D:\Project_2022_2023\Image_TCP_Remoting\ImgServer\ImgServer\bin\Debug\ImgCL.dll
+D:\Project_2022_2023\Image_TCP_Remoting\ImgServer\ImgServer\obj\x86\Debug\ImgServer.csprojResolveAssemblyReference.cache
+D:\Project_2022_2023\Image_TCP_Remoting\ImgServer\ImgServer\obj\x86\Debug\ImgServer.Properties.Resources.resources
+D:\Project_2022_2023\Image_TCP_Remoting\ImgServer\ImgServer\obj\x86\Debug\ImgServer.ServerApplication.resources
+D:\Project_2022_2023\Image_TCP_Remoting\ImgServer\ImgServer\obj\x86\Debug\ImgServer.csproj.GenerateResource.Cache
+D:\Project_2022_2023\Image_TCP_Remoting\ImgServer\ImgServer\obj\x86\Debug\ImgServer.exe
+D:\Project_2022_2023\Image_TCP_Remoting\ImgServer\ImgServer\obj\x86\Debug\ImgServer.pdb
+E:\2022\Image processing\Image_TCP_Remoting\ImgServer\ImgServer\obj\x86\Debug\ImgServer.exe
+E:\2022\Image processing\Image_TCP_Remoting\ImgServer\ImgServer\obj\x86\Debug\ImgServer.pdb
+E:\2022\Image processing\Image_TCP_Remoting\ImgServer\ImgServer\bin\Debug\ImgServer.exe
+E:\2022\Image processing\Image_TCP_Remoting\ImgServer\ImgServer\bin\Debug\ImgServer.pdb
+E:\2022\Image processing\Image_TCP_Remoting\ImgServer\ImgServer\bin\Debug\ImgCL.dll
+E:\2022\Image processing\Image_TCP_Remoting\ImgServer\ImgServer\obj\x86\Debug\ImgServer.csprojResolveAssemblyReference.cache
+E:\2022\Image processing\Image_TCP_Remoting\ImgServer\ImgServer\obj\x86\Debug\ImgServer.Properties.Resources.resources
+E:\2022\Image processing\Image_TCP_Remoting\ImgServer\ImgServer\obj\x86\Debug\ImgServer.ServerApplication.resources
+E:\2022\Image processing\Image_TCP_Remoting\ImgServer\ImgServer\obj\x86\Debug\ImgServer.csproj.GenerateResource.Cache

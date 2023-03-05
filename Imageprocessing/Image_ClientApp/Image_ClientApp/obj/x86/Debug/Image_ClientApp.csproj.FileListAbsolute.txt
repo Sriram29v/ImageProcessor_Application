@@ -1,0 +1,26 @@
+D:\Project_2022_2023\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\bin\Debug\Image_ClientApp.exe
+D:\Project_2022_2023\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\bin\Debug\Image_ClientApp.pdb
+D:\Project_2022_2023\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\bin\Debug\ImgCL.dll
+D:\Project_2022_2023\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.csprojResolveAssemblyReference.cache
+D:\Project_2022_2023\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.Form1.resources
+D:\Project_2022_2023\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.Properties.Resources.resources
+D:\Project_2022_2023\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.csproj.GenerateResource.Cache
+D:\Project_2022_2023\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.exe
+D:\Project_2022_2023\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.pdb
+C:\Users\win10\Downloads\Remoting\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.exe
+C:\Users\win10\Downloads\Remoting\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.pdb
+C:\Users\win10\Downloads\Remoting\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\bin\Debug\Image_ClientApp.exe
+C:\Users\win10\Downloads\Remoting\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\bin\Debug\Image_ClientApp.pdb
+C:\Users\win10\Downloads\Remoting\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\bin\Debug\ImgCL.dll
+C:\Users\win10\Downloads\Remoting\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.Form1.resources
+C:\Users\win10\Downloads\Remoting\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.Properties.Resources.resources
+C:\Users\win10\Downloads\Remoting\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.csproj.GenerateResource.Cache
+E:\2022\Image processing\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.exe
+E:\2022\Image processing\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.pdb
+E:\2022\Image processing\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\bin\Debug\Image_ClientApp.exe
+E:\2022\Image processing\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\bin\Debug\Image_ClientApp.pdb
+E:\2022\Image processing\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\bin\Debug\ImgCL.dll
+E:\2022\Image processing\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.csprojResolveAssemblyReference.cache
+E:\2022\Image processing\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.Form1.resources
+E:\2022\Image processing\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.Properties.Resources.resources
+E:\2022\Image processing\Image_TCP_Remoting\Image_ClientApp\Image_ClientApp\obj\x86\Debug\Image_ClientApp.csproj.GenerateResource.Cache
